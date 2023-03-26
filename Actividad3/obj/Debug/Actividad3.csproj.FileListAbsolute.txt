@@ -1,0 +1,11 @@
+A:\Actividad3\Actividad3\bin\Debug\Actividad3.exe.config
+A:\Actividad3\Actividad3\bin\Debug\Actividad3.exe
+A:\Actividad3\Actividad3\bin\Debug\Actividad3.pdb
+A:\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.AssemblyReference.cache
+A:\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.SuggestedBindingRedirects.cache
+A:\Actividad3\Actividad3\obj\Debug\Actividad3.frmAcceso.resources
+A:\Actividad3\Actividad3\obj\Debug\Actividad3.Properties.Resources.resources
+A:\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.GenerateResource.cache
+A:\Actividad3\Actividad3\obj\Debug\Actividad3.csproj.CoreCompileInputs.cache
+A:\Actividad3\Actividad3\obj\Debug\Actividad3.exe
+A:\Actividad3\Actividad3\obj\Debug\Actividad3.pdb
