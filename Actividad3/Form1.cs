@@ -1,5 +1,7 @@
 ﻿//   Topicos Avanzados de Programación
 //   Unidad 1 Interfaz Gráfica de Usuario
+//   Objetivo: DESARROLLAR UNA APLICACIÓN PARA FORMS, CON EL LENGUAJE DE PROGRAMACIÓN C# Y HACIENDO USO DEL IDE VISUAL STUDIO
+//             COMMUNITY EDITION, QUE IMPLEMENTE DIFERENTES TIPOS DE EVENTOS. 
 //   Docente: Ulises Martínez Rodríguez
 //   Alumno: Jaime Emanuel Quistián Sánchez
 //   Actividad 2 Eventos
